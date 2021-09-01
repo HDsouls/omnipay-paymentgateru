@@ -2,9 +2,9 @@
 
 **RbsUat (МТС) драйвер для библиотеки Omnipay PHP**
 
-[![Build Status](https://api.travis-ci.org/pinguinjkeke/omnipay-RbsUat.svg)](https://travis-ci.org/pinguinjkeke/omnipay-RbsUat)
-[![Latest Stable Version](https://poser.pugx.org/pinguinjkeke/omnipay-RbsUat/version.png)](https://packagist.org/packages/pinguinjkeke/omnipay-RbsUat)
-[![Total Downloads](https://poser.pugx.org/pinguinjkeke/omnipay-RbsUat/d/total.png)](https://packagist.org/packages/pinguinjkeke/omnipay-RbsUat)
+[![Build Status](https://api.travis-ci.org/sevakode/omnipay-rbsuat.svg)](https://travis-ci.org/pinguinjkeke/omnipay-RbsUat)
+[![Latest Stable Version](https://poser.pugx.org/sevakode/omnipay-rbsuat/version.png)](https://packagist.org/packages/pinguinjkeke/omnipay-RbsUat)
+[![Total Downloads](https://poser.pugx.org/sevakode/omnipay-rbsuat/d/total.png)](https://packagist.org/packages/pinguinjkeke/omnipay-RbsUat)
 
 [Omnipay](https://github.com/thephpleague/omnipay) - это независимая от фреймворков библиотека для PHP 5.3+,
 поддерживающая работу с несколькими шлюзами.
@@ -16,7 +16,7 @@
 Лучший способ - установка через [Composer](http://getcomposer.org/). Просто добавьте в ваш `composer.json`:
 
 ```
-composer require "pinguinjkeke/omnipay-RbsUat"
+composer require "sevakode/omnipay-rbsuat"
 ```
 Для PHP 5.3 - 7.0 используйте версии 2.*
 
