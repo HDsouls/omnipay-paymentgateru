@@ -1,6 +1,6 @@
 {
   "name": "sevakode/omnipay-rbsuat",
-  "version": "3.0.1",
+  "version": "1.0.0",
   "type": "library",
   "description": "rbsuat support for Omnipay payment processing library",
   "keywords": [
@@ -25,11 +25,6 @@
   "autoload": {
     "psr-4": {
       "Omnipay\\RbsUat\\": "src/"
-    }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "Tests\\Examples\\": "tests/Examples"
     }
   },
   "require": {
