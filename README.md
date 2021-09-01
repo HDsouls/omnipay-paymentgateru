@@ -2,9 +2,9 @@
 
 **RbsUat (МТС) драйвер для библиотеки Omnipay PHP**
 
-[![Build Status](https://api.travis-ci.org/sevakode/omnipay-rbsuat.svg)](https://travis-ci.org/pinguinjkeke/omnipay-RbsUat)
-[![Latest Stable Version](https://poser.pugx.org/sevakode/omnipay-rbsuat/version.png)](https://packagist.org/packages/pinguinjkeke/omnipay-RbsUat)
-[![Total Downloads](https://poser.pugx.org/sevakode/omnipay-rbsuat/d/total.png)](https://packagist.org/packages/pinguinjkeke/omnipay-RbsUat)
+[![Build Status](https://api.travis-ci.org/sevakode/omnipay-rbsuat.svg)](https://travis-ci.org/sevakode/omnipay-rbsuat)
+[![Latest Stable Version](https://poser.pugx.org/sevakode/omnipay-rbsuat/version.png)](https://packagist.org/packages/sevakode/omnipay-rbsuat)
+[![Total Downloads](https://poser.pugx.org/sevakode/omnipay-rbsuat/d/total.png)](https://packagist.org/packages/sevakode/omnipay-rbsuat)
 
 [Omnipay](https://github.com/thephpleague/omnipay) - это независимая от фреймворков библиотека для PHP 5.3+,
 поддерживающая работу с несколькими шлюзами.
